@@ -1,0 +1,20 @@
+{
+  "name": "qq music",
+  "authors": [
+    "董小敏 <1344091359@qq.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "n",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
